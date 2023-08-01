@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<paperarchive>
+    <movies>
+        <movie>
+            <movieactors>
+                <actor>
+                    <id>1</id>
+                    <fullname>Chris Messina</fullname>
+                    <movieid>1</movieid>
+                </actor>
+                <actor>
+                    <id>2</id>
+                    <fullname> Vivien Lyra Blair</fullname>
+                    <movieid>1</movieid>
+                </actor>
+                <actor>
+                    <id>3</id>
+                    <fullname> Sophie Thatcher</fullname>
+                    <movieid>1</movieid>
+                </actor>
+            </movieactors>
+            <moviedirectors>
+                <director>
+                    <id>1</id>
+                    <fullname>Rob Savage</fullname>
+                    <movieid>1</movieid>
+                </director>
+            </moviedirectors>
+            <id>1</id>
+            <movietitle>Bugiman</movietitle>
+            <originaltitle>The Boogeyman</originaltitle>
+            <datepublished>2023-06-11T22:00:00</datepublished>
+            <moviedescription>Napeta adaptacija istoimene kratke priče slavnog Stephena Kinga koja će vam utjerati strah u kosti i zbog koje biste mogli provjeravati ima li čudovišta ispod kreveta ili se možda krije u ormaru?! Priča prati srednjoškolku Sadie i njezinu mlađu sestru Sawyer koje se oporavljaju od tragične smrti majke. Njihov otac radi kao terapeut i nastoji ne razmišljati o tragediji koja ih je zadesila. Kada se njegov očajni pacijent neočekivano pojavi u njihovom domu tražeći pomoć, za sobom ostavlja zastrašujući nadnaravni entitet koji radi plijen od obitelji i hrani se patnjom svojih žrtava. Sadie i Sawyer ubrzo shvate da ih opsjeda sadistička prisutnost u vlastitoj kući. Njih dvije borit će se da to dokažu ocu Willu bez čije pomoći bi moglo biti prekasno za spas.</moviedescription>
+            <movielength>98</movielength>
+            <yearmade>2023</yearmade>
+            <moviegenre>horor</moviegenre>
+            <picturepath>assets\1f3ecc95-bf3c-45f0-b2da-3edd5be51d59.jpg</picturepath>
+        </movie>
+        <movie>
+            <movieactors/>
+            <moviedirectors>
+                <director>
+                    <id>51</id>
+                    <fullname>Pete Docter</fullname>
+                    <movieid>34</movieid>
+                </director>
+            </moviedirectors>
+            <id>34</id>
+            <movietitle>Elementi - sink</movietitle>
+            <originaltitle>Elemental</originaltitle>
+            <datepublished>2023-06-14T22:00:00</datepublished>
+            <moviedescription>Nova maštovita animacija studija Disney i Pixar koja govori o različitostima i njihovoj privlačnosti. Radnja filma smještena je u svijet u kojem četiri osnovna elementa vatra, zemlja, voda i zrak žive i koegzistiraju. Unatoč njihovim očitim i temeljnim razlikama oni će shvatiti da su mnogo sličniji nego što su mislili i da je ono što se nalazi iznutra puno važnije od onoga što je izvana.</moviedescription>
+            <movielength>110</movielength>
+            <yearmade>2023</yearmade>
+            <moviegenre>animirani</moviegenre>
+            <picturepath>assets\55fa37d6-2f41-4c54-aaea-9bef03177d9c.jpg</picturepath>
+        </movie>
+        <movie>
+            <movieactors/>
+            <moviedirectors>
+                <director>
+                    <id>52</id>
+                    <fullname>Pete Docter</fullname>
+                    <movieid>35</movieid>
+                </director>
+            </moviedirectors>
+            <id>35</id>
+            <movietitle>Elementi - sink</movietitle>
+            <originaltitle>Elemental</originaltitle>
+            <datepublished>2023-06-15T22:00:00</datepublished>
+            <moviedescription>Nova maštovita animacija studija Disney i Pixar koja govori o različitostima i njihovoj privlačnosti. Radnja filma smještena je u svijet u kojem četiri osnovna elementa vatra, zemlja, voda i zrak žive i koegzistiraju. Unatoč njihovim očitim i temeljnim razlikama oni će shvatiti da su mnogo sličniji nego što su mislili i da je ono što se nalazi iznutra puno važnije od onoga što je izvana.</moviedescription>
+            <movielength>110</movielength>
+            <yearmade>2023</yearmade>
+            <moviegenre>animirani</moviegenre>
+            <picturepath>assets\d6e0bf7f-cf9b-4c79-966e-f9c0d27f0d22.jpg</picturepath>
+        </movie>
+    </movies>
+</paperarchive>

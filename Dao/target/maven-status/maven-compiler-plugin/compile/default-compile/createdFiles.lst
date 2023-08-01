@@ -1,0 +1,10 @@
+hr\algebra\dal\sql\MovieRepo.class
+hr\algebra\dal\IUserRepo.class
+hr\algebra\dal\sql\UserRepo.class
+hr\algebra\dal\MovieRepoFactory.class
+hr\algebra\dal\sql\DataSourceSingleton.class
+hr\algebra\dal\SessionManager.class
+hr\algebra\model\Movie.class
+hr\algebra\dal\IMovieRepo.class
+hr\algebra\model\User.class
+hr\algebra\dal\UserRepoFactory.class

@@ -1,0 +1,5 @@
+hr\algebra\utilities\MessageUtils.class
+hr\algebra\factory\ParserFactory.class
+hr\algebra\utilities\FileUtils.class
+hr\algebra\factory\UrlConnectionFactory.class
+hr\algebra\utilities\IconUtils.class
